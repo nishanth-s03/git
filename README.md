@@ -15,5 +15,5 @@
 <h7>PRIVATE ACCESS TOKENS CAN BE GENERATED IN </>Developer Settings</h7>
 
 <h3>III) RUN SCRIPTS:</h3>
-➡️ npm run contribution (FOR CONTRIBUTOR COUNT)<br>
-➡️ npm run commits (FOR COMMITS)<br>
+➡️ npm run start contribution (FOR CONTRIBUTOR COUNT)<br>
+➡️ npm run start commits (FOR COMMITS)<br>
